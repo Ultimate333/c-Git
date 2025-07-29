@@ -7,8 +7,8 @@ namespace c
         static void Main(string[] args)
         {
 
-            float per = 5;
-            if (per % 2 == 0)
+            float a = 5;
+            if (a % 2 == 0)
             {
                 Console.WriteLine("четное");
             }
